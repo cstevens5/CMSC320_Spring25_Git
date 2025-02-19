@@ -2,6 +2,13 @@ Q1: Why might we consider using Git?
 
 Answer: to track changes made to files and maintain a history of all modifications
 
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: E-commerce, it can be used to recommend products to users based on their browsing history
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: rebasing overwrites a branch's history where as merging preserves the history of both branches
+
