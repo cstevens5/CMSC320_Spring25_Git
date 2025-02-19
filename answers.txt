@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: E-commerce, it can be used to recommend products to users based on their browsing history
